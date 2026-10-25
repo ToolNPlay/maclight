@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "releaseDate": "2026-10-25",
+  "minMacOSVersion": "14.0",
+  "downloadURL": "https://github.com/toolnplay/maclight/releases/latest/download/MacLight-v1.0.0.dmg",
+  "releaseNotes": "Initial launch of MacLight v1.0.0 — System Cleaner, Leftovers Detector, Duplicate Finder, Privacy Wiper & Performance Suite."
+}
